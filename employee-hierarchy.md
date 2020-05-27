@@ -58,3 +58,6 @@ circle.node-button-circle {
 5- we need to create static region to drow the hierarchy on this region 
 just set `chart-container` as `Column CSS Classes` on `Layout` for this region
 
+we can save and the hierarchy will appear on the page as image above 
+
+## Now we will generate our json file from query 
